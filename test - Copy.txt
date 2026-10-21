@@ -1,0 +1,2 @@
+test prva linija
+druga linija test fajla
