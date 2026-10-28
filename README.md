@@ -3,9 +3,6 @@
 Repozitorijum vežbi predmeta Razvoj softvera otvorenog koda
 
 
-
-\---
-
 \- Potrebni alati i razvojna okruzenja za rad na demo projektu
 
 
@@ -16,9 +13,8 @@ Repozitorijum vežbi predmeta Razvoj softvera otvorenog koda
 
 &#x20;- Microsoft SQL Management Studio (https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
 
-3\. .NET 9 (https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+3\. .NET 9 (https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
 
-\---
 
 
 
